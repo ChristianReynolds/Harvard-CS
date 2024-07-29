@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it being the second fastest on average of all the trials this was clearly bubble sort due its average being omega (n) while selective sort will be sort 3 having the slowest with Omega(n^2)
+
+sort2 uses: merge sort
+
+How do you know?: analyzing the speed of all the trials the slowest one was during the already sorted trial where is merge sorts slowest speed.
+
+sort3 uses: selection sort
+
+How do you know?: having the slowest times of all the trials it was easy to identify this as being selection sort.
